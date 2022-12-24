@@ -20,7 +20,7 @@ how-to-catch2-in-cpp/
 ## build and test
 
 ```
-git clone git@github.com:mrprajesh/how-to-catch2-in-cpp
+git clone https://github.com/mrprajesh/how-to-catch2-in-cpp.git
 cd how-to-catch2-in-cpp
 bash ./testme.sh
 ```
